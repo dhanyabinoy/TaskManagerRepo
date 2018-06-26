@@ -1,0 +1,9 @@
+com\fsd\taskmanager\controller\TaskManagerController.class
+com\fsd\taskmanager\model\TaskDetails.class
+com\fsd\taskmanager\service\TaskManagerServiceImpl.class
+com\fsd\taskmanager\repository\ParentTaskRepository.class
+com\fsd\taskmanager\entities\ParentTask.class
+com\fsd\taskmanager\entities\Task.class
+com\fsd\taskmanager\TaskmanagerApplication.class
+com\fsd\taskmanager\util\TaskManagerUtil.class
+com\fsd\taskmanager\service\TaskMangerService.class

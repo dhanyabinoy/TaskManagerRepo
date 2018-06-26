@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: com.fsd.taskmanager.TaskManagerServiceTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1.68 s <<< FAILURE! - in com.fsd.taskmanager.TaskManagerServiceTest
+com.fsd.taskmanager.TaskManagerServiceTest  Time elapsed: 1.68 s  <<< ERROR!
+org.powermock.reflect.exceptions.FieldNotFoundException: No instance field named "reporter" could be found in the class hierarchy of org.mockito.internal.MockitoCore.
+	at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:365)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeWithRerun(JUnit4Provider.java:273)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:238)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:159)
+
